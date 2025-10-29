@@ -1,1 +1,100 @@
-
+{
+  "urls": [
+    {
+      "name": "WISAG GopsInfo",
+      "url": "https://gopsinfo.wisag.de"
+    },
+    {
+      "name": "TAC Lufthansa Group",
+      "url": "https://tac.lufthansa-group.com"
+    },
+    {
+      "name": "WISAG Moreapp MUC WAGS Damaged GSE",
+      "url": "https://app.moreapp.com/form/67d9574e67d73f5d0aaf01d6?id=7e960ca5-2935-4f2d-8df0-004510d20708"
+    },
+    {
+      "name": "WISAG Moreapp ALL WASH  Ramp Safety Check 2025",
+      "url": "https://app.moreapp.com/form/676036bcdfa20d5b8134ec58"
+    },
+    {
+      "name": "CLC Viennaairport",
+      "url": "https://clc.viennaairport.com"
+    },
+    {
+      "name": "DPX Iberia",
+      "url": "https://dpx.iberia.es"
+    },
+    {
+      "name": "BER_WGS_Hold Security Search",
+      "url": "https://webclient.moreapp.com/#/form/60a50f2407813f7792c65687"
+    },
+            {
+      "name": "Airport HAM",
+      "url": "https://www.hamburg-airport.de"
+    },
+            {
+      "name": "Samedayhandling - Time Matters",
+      "url": "https://samedayhandling.time-matters.com/login"
+    },
+            {
+      "name": "MOBILE Buildup Live",
+      "url": "https://cargo.wisag.de:8443/mechos/de/#/buildup/flights"
+    },
+            {
+      "name": "MOBILE Forms Live",
+      "url": "https://cargo.wisag.de:8443/mechos/forms/de"
+    },
+    {
+      "name": "Norwegian Extranet",
+      "url": "https://www.norwegian.com/extranet"
+    },
+    {
+      "name": "WISAG GopsInfo",
+      "url": "https://gopsinfo.wisag.de"
+    },
+    {
+      "name": "TAC Lufthansa Group",
+      "url": "https://tac.lufthansa-group.com"
+    },
+    {
+      "name": "WISAG Moreapp MUC WAGS Damaged GSE",
+      "url": "https://app.moreapp.com/form/67d9574e67d73f5d0aaf01d6?id=7e960ca5-2935-4f2d-8df0-004510d20708"
+    },
+    {
+      "name": "WISAG Moreapp ALL WASH  Ramp Safety Check 2025",
+      "url": "https://app.moreapp.com/form/676036bcdfa20d5b8134ec58"
+    },
+    {
+      "name": "CLC Viennaairport",
+      "url": "https://clc.viennaairport.com"
+    },
+    {
+      "name": "DPX Iberia",
+      "url": "https://dpx.iberia.es"
+    },
+    {
+      "name": "BER_WGS_Hold Security Search",
+      "url": "https://webclient.moreapp.com/#/form/60a50f2407813f7792c65687"
+    },
+            {
+      "name": "Airport HAM",
+      "url": "https://www.hamburg-airport.de"
+    },
+            {
+      "name": "Samedayhandling - Time Matters",
+      "url": "https://samedayhandling.time-matters.com/login"
+    },
+            {
+      "name": "MOBILE Buildup Live",
+      "url": "https://cargo.wisag.de:8443/mechos/de/#/buildup/flights"
+    },
+            {
+      "name": "MOBILE Forms Live",
+      "url": "https://cargo.wisag.de:8443/mechos/forms/de"
+    },
+    {
+      "name": "Norwegian Extranet",
+      "url": "https://www.norwegian.com/extranet"
+    }
+  ]
+}
