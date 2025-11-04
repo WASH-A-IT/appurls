@@ -2,19 +2,59 @@
   "urls": [
     {
       "name": "Airport MUC",
-      "url": "https://www.hamburg-airport.de"
+      "url": "https://www.munich-airport.de"
     },
             {
-      "name": "Samedayhandling - Time Matters",
-      "url": "https://samedayhandling.time-matters.com/login"
+      "name": "Gopsinfo",
+      "url": "https://gopsinfo.wisag.de"
     },
             {
-      "name": "MOBILE Buildup Live",
-      "url": "https://cargo.wisag.de:8443/mechos/de/#/buildup/flights"
+      "name": "MSR",
+      "url": "https://ghs.wisag.de:8443/msr/ng/de/#/login"
+    },
+       {
+      "name": "Damaged GSE",
+      "url": "https://app.moreapp.com/form/67d9574e67d73f5d0aaf01d6"
     },
             {
-      "name": "MOBILE Forms Live",
-      "url": "https://cargo.wisag.de:8443/mechos/forms/de"
+      "name": "BA Send LIRF",
+      "url": "https://app.moreapp.com/form/67c89f0215d4693b95b6c341"
+    },
+            {
+      "name": "BA DLY Erklärung",
+      "url": "https://app.moreapp.com/form/67c96175bff1360c72390791"
+    },
+     {
+      "name": "ALL_WASH_ Ramp Safety-Check 2025",
+      "url": "https://www.munich-airport.de"
+    },
+            {
+      "name": "ALL_WASH_Safety & Security Meldung",
+      "url": "https://gopsinfo.wisag.de"
+    },
+            {
+      "name": "ALL_WASH_Turnaround-Check 2025",
+      "url": "https://ghs.wisag.de:8443/msr/ng/de/#/login"
+    },
+       {
+      "name": "MUC_WAGS_Verzögerungsmeldung (Delay)",
+      "url": "https://app.moreapp.com/form/67d9574e67d73f5d0aaf01d6"
+    },
+            {
+      "name": "MUC_WAGS_BA_Performance_Report_NEU",
+      "url": "https://app.moreapp.com/form/67c89f0215d4693b95b6c341"
+    },
+            {
+      "name": "MoreApp",
+      "url": "https://app.moreapp.com/form/67c96175bff1360c72390791"
+    },
+          {
+      "name": "Trackunit Manager",
+      "url": "https://new.manager.trackunit.com"
+    },
+            {
+      "name": "TAC - LH",
+      "url": "https://tac.lufthansa-group.com"
     }
   ]
 }
