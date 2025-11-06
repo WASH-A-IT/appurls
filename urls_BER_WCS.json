@@ -1,0 +1,24 @@
+{
+  "urls": [
+    {
+      "name": "Airport BER",
+      "url": "https://ber.berlin-airport.de"
+    },
+            {
+      "name": "Samedayhandling - Time Matters",
+      "url": "https://samedayhandling.time-matters.com/login"
+    },
+            {
+      "name": "MOBILE Buildup Live",
+      "url": "https://cargo.wisag.de:8443/mechos/de/#/buildup/flights"
+    },
+      {
+      "name": "CARGO CheckSheet",
+      "url": "https://cargo.wisag.de:8443/mechos/forms/de/#/login"
+    },
+            {
+      "name": "MOBILE Forms Live",
+      "url": "https://cargo.wisag.de:8443/mechos/forms/de"
+    }
+  ]
+}
