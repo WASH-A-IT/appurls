@@ -1,0 +1,60 @@
+{
+  "urls": [
+    {
+      "name": "Vienna Airport",
+      "url": "https://clc.viennaairport.com/"
+    },
+    {
+      "name": "(SK) Amadeus Altea DCS FM Mobile",
+      "url": "https://www.accounts.amadeus.com/LoginService/authorizeAngular?service=fm&client_id=1ASIHDFSK&response_type=id_token%20token&response_mode=form_post&scope=openid&redirect_uri=https%3A%2F%2Ffmgui%2Esi%2Eamadeus%2Enet%2F1ASIHDFSK%2Ffm%2Fhome%2FRampMobile&nonce=1832489355#/login"
+    },
+    {
+      "name": "(LO) Amadeus Altea DCS FM Mobile",
+      "url": "https://www.accounts.amadeus.com/LoginService/authorizeAngular?service=fm&client_id=1ASIHDFLO&response_mode=form_post&redirect_uri=https%3A%2F%2Fafmgui%2Esi%2Eamadeus%2Enet%2F1ASIHDFLO%2Ffm%2Fhome%2FRampMobile&nonce=1850719210#/login"
+    },
+    {
+      "name": "(FI) Amadeus Altea DCS FM Mobile",
+      "url": "https://www.accounts.amadeus.com/LoginService/authorizeAngular?service=fm&client_id=1ASIHDFFI&response_mode=form_post&redirect_uri=https%3A%2F%2Fafmgui%2Esi%2Eamadeus%2Enet%2F1ASIHDFFI%2Ffm%2Fhome%2FRampMobile&nonce=656584186#/login"
+    },
+    {
+      "name": "(UX) Amadeus Altea DCS FM Mobile",
+      "url": "https://afmgui.si.amadeus.net/1ASIHDFUX/fm/home/RampMobile"
+    },
+    {
+      "name": "Altea FM LH-LX-OS",
+      "url": "https://afmgui.si.amadeus.net/1ASIHDFAY/fm/home/rampmobile"
+    },
+    {
+      "name": "AY",
+      "url": "https://afmguipdt.si.amadeus.net/1ASIHDF1AK/fm/home/RampMobile"
+    },
+    {
+      "name": "OS",
+      "url": "https://afmgui.si.amadeus.net/1ASIHDFLH/fm/home/RampMobile"
+    },
+    {
+      "name": "Formular: Import Check Sheet",
+      "url": "https://app.moreapp.com/form/621608f68a44d776cefda5d7"
+    },
+    {
+      "name": "Formular: Flight Report",
+      "url": "https://app.moreapp.com/form/66014db36e6e1722bde195eb"
+    },
+    {
+      "name": "Iberia IRIS Smart Load",
+      "url": "https://prod.ibe.s4a.aero/shell/saml/login"
+    },
+    {
+      "name": "Iberia Tam Web App",
+      "url": "https://dpx.iberia.es"
+    },
+    {
+      "name": "Amadeus Altea DCS FM Mobile",
+      "url": "https://www.accounts.amadeus.com/LoginService/authorizeAngular?service=fm&client_id=1ASIHDFSK&response_type=id_token%20token&response_mode=form_post&scope=openid&redirect_uri=https%3A%2F%2Fafmgui%2Esi%2Eamadeus%2Enet%2F1ASIHDFSK%2Ffm%2Fhome%2FRampMobile&nonce=1832489355"
+    },
+    {
+      "name": "Ryanair OMS",
+      "url": "https://oms.ryanair.com"
+    }
+  ]
+}
