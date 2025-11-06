@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "BER_WPaS_Self-Check",
+      "url": "https://webclient.moreapp.com/#/form/6023a6ef4326880046b977c5"
+    },
+    {
+      "name": "BER_WPaS_Passage Dienstplanrequest",
+      "url": "https://app.moreapp.com/form/656469c2f0b1ba7833a8c255"
+    },
+    {
+      "name": "BER_WPaS_Bestellformular Klamotten",
+      "url": "https://app.moreapp.com/form/64076351f53f7d496c86ffa7"
+    },
+    {
+      "name": "Airport BER",
+      "url": "https://ber.berlin-airport.de/de.html/"
+    }
+  ]
+}
