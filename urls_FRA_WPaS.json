@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "Airport FRA",
+      "url": "https://www.frankfurt-airport.com"
+    },
+            {
+      "name": "FRA_WPaS_Request_Off",
+      "url": "https://app.moreapp.com/form/672250e634bd3a78b06a2867"
+    },
+            {
+      "name": "FRA_WPaS_Bestellformular Uniform",
+      "url": "https://app.moreapp.com/form/686b8764b0ca4d56173ca081"
+    },
+      {
+      "name": "FRA_WPAS_Urlaubsantrag",
+      "url": "https://app.moreapp.com/form/68b58bf8efd6012383b007f2"
+    }
+  ]
+}
