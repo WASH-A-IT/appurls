@@ -1,0 +1,96 @@
+{
+  "urls": [
+    {
+      "name": "Airport BER",
+      "url": "https://ber.berlin-airport.de/de.html/"
+    },
+    {
+      "name": "BER_WGS_Hold Security Search",
+      "url": "https://webclient.moreapp.com/#/form/60a50f2407813f7792c65687"
+    },
+    {
+      "name": "ALL_WASH_Safety & Security Meldung",
+      "url": "https://webclient.moreapp.com/#/form/623c59b015b61e7aec51b575"
+    },
+    {
+      "name": "Norwegian Extranet",
+      "url": "https://www.norwegian.com/extranet"
+    },
+    {
+      "name": "Transavia",
+      "url": "https://trnsva-tip-prod.pegacloud.io/prweb/PRServletCustomAuth"
+    },
+    {
+      "name": "AFKL Sharepoint",
+      "url": "https://afkl.sharepoint.com/teams/dept-gs-GGHportal/SitePages/Home.aspx"
+    },
+    {
+      "name": "FLY Norse",
+      "url": "https://flynorse.centrik.net/"
+    },
+    {
+      "name": "MACH 2 Weight&Balance",
+      "url": "https://clc.viennaairport.com/MACHwbclc/system/login.vie"
+    },
+    {
+      "name": "WB mach2 Systems",
+      "url": "https://clc.viennaairport.com/MACHwbclc/v2/login.jsp"
+    },
+    {
+      "name": "Habile RAMPFM",
+      "url": "https://rampfm.airfrance.fr"
+    },
+    {
+      "name": "Habile ADAM",
+      "url": "https://adam.airfrance.fr"
+    },
+    {
+      "name": "Iport",
+      "url": "https://iport.travelport.com"
+    },
+    {
+      "name": "BER_WGS_Bestellformular_Arbeitskleidung_neu",
+      "url": "https://webclient.moreapp.com/form/64ad250dd257d32d3e3247f7"
+    },
+    {
+      "name": "TIDY Norwegian",
+      "url": "https://tidy.norwegian.no"
+    },
+    {
+      "name": "BER_WGS_Flight Report",
+      "url": "https://app.moreapp.com/form/66014db36e6e1722bde195eb"
+    },
+    {
+      "name": "BER_WGS_Fotos",
+      "url": "https://app.moreapp.com/form/6523d6440c706765df40ed2b"
+    },
+    {
+      "name": "BER_WGS_BA W+B",
+      "url": "https://app.moreapp.com/form/66e824d84f7ae21884e88c2b"
+    },
+    {
+      "name": "Altea DCS FM Mobile",
+      "url": "https://www.accounts.amadeus.com/LoginService/authorizeAngular?service=fm&client_id=1ASIHDFDE&response_mode=form_post&redirect_uri=https%3A%2F%2Fafmgui%2Esi%2Eamadeus%2Enet%2F1ASIHDFDE%2Ffm%2Fhome%2FRampMobile&nonce=753323128#/login"
+    },
+    {
+      "name": "MSR",
+      "url": "https://ghs.wisag.de:8443/msr/ng/de/#/login"
+    },
+    {
+      "name": "IBERIA",
+      "url": "https://prod.ibe.s4a.aero/shell/saml/login"
+    },
+    {
+      "name": "BER_WGS_CLC_VIE",
+      "url": "https://app.moreapp.com/form/687f6ba13d2bdf589a53d0cd"
+    },
+    {
+      "name": "BER_WGS_Aer Lingus Report",
+      "url": "https://app.moreapp.com/form/688a0ed34721463655ca4bf3"
+    },
+    {
+      "name": "HiSERV GSE",
+      "url": "https://www.hiserv.aero"
+    }
+  ]
+}
