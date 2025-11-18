@@ -1,8 +1,9 @@
 {
   "whitelist": [
-    "https://erlaubte-domain.com",
+    "https://app.moreapp.com",
     "meine-firma.de",
     "https://partner-portal.org",
     "trusted-service.com"
   ]
+
 }
