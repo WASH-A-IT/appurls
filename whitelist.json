@@ -1,0 +1,8 @@
+{
+  "whitelist": [
+    "https://erlaubte-domain.com",
+    "meine-firma.de",
+    "https://partner-portal.org",
+    "trusted-service.com"
+  ]
+}
